@@ -15,6 +15,6 @@
 1. Follow the instructions above
 2. Run `npm run build`
 3. Run `npm run preview`
-4. Open a web browser and go to `localhost:3000`
+4. Open a web browser and go to `localhost:4173`
 5. Open the console
 6. There shouldn't be any error, instead the ROSLIB object should be logged as intended
