@@ -1,7 +1,7 @@
 import './style.css'
 
-// import * as ROSLIB from 'roslib';
-import 'roslib/build/roslib'
+// import 'roslib/build/roslib'
+import ROSLIB from './roslib.shim';
 
 document.querySelector('#app').innerHTML = `
   <h1>Hello Vite!</h1>
